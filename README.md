@@ -1,6 +1,6 @@
 # Blacklisted Group Scanner
 
-The Blacklisted Group Scanner is intended and preconfigured to scan for members of CreepySins' SCPF who are in blacklisted [Groups of Interest](https://trello.com/b/alydkLVe/dea-group-of-interest-database).
+The Blacklisted Group Scanner is intended and preconfigured to scan for members of CreepySins' SCPF who are in blacklisted [Groups of Interest](https://trello.com/b/alydkLVe/dea-group-of-interest-database). It functions by searching the groups of all members of CreepySins' SCPF that are of the provided ranks.
 
 **DISCLAIMERS:**
 - The speed of this application heavily depends on your internet connection and Roblox API rate limiting.
