@@ -46,4 +46,4 @@ deactivate
 ```
 
 ## Updates
-I won't be updating the app because I doubt anyone will use it anyways (lol). If the list of blacklisted groups updates, just edit the global dictionary `BLACKLISTED_GROUPS` based on the format.
+I won't be updating the app unless someone asks because I doubt anyone will use it anyways (lol). If the list of blacklisted groups updates, just edit the global dictionary `BLACKLISTED_GROUPS` based on the format.
