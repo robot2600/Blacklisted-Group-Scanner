@@ -1,15 +1,15 @@
 # Blacklisted Group Scanner
 
-The Blacklisted Group Scanner is intended and preconfigured to scan for members of CreepySins' SCPF who are in blacklisted Groups of Interest.
+The Blacklisted Group Scanner is intended and preconfigured to scan for members of CreepySins' SCPF who are in blacklisted [Groups of Interest](https://trello.com/b/alydkLVe/dea-group-of-interest-database).
 
-**DISCLAIMER:** The speed of this application heavily depends on your internet connection and Roblox API rate limiting. It will only display its results AFTER it searches through all of the ranks it was told to. These results are not saved anywhere and will not be accessible if a fatal error occurs. It could take around a couple hours just to search all users ranked L-0 through L-5 given the large size of the group.
+**DISCLAIMER:** The speed of this application heavily depends on your internet connection and Roblox API rate limiting. It will only display its results *after* it searches through all of the ranks it was told to. These results are not saved anywhere and will not be accessible if a fatal error occurs. It could take around a couple hours just to search all users ranked L-0 through L-5 given the large size of the group, so reduce the search size in the code if needed.
 
 The code might be sloppy, I made this when I was tired.
 
--robot2600
+\- robot2600
 
 ## Installation / Usage
-The instructions will be for the Windows Command Prompt because I can't be bothered to do it for anything else. This part covers basic things, but you'll still need to have Python installed already.
+The instructions will be for the Windows Command Prompt because I can't be bothered to do it for anything else. This part covers basic things, but you'll still need to have Python installed and configured already.
 
 1. Navigate to the folder that the program is in.
 ```bash
