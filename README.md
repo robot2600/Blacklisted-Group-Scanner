@@ -1,4 +1,4 @@
-# robot2600's Blacklisted Group Scanner
+# Blacklisted Group Scanner
 
 The Blacklisted Group Scanner is intended and preconfigured to scan for members of CreepySins' SCPF who are in blacklisted Groups of Interest.
 
