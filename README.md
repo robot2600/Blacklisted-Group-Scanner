@@ -4,7 +4,7 @@ The Blacklisted Group Scanner is intended and preconfigured to scan for members 
 
 **DISCLAIMERS:**
 - The speed of this application heavily depends on your internet connection and Roblox API rate limiting.
-- Results will only be displayed *after* the application searches through all of the ranks it was told to. These results are not saved anywhere and will not be accessible if a fatal error occurs
+- Results will only be displayed in the terminal *after* the application searches through all of the ranks it was told to. These results are not saved anywhere and will not be accessible if a fatal error occurs.
 - It could take around a couple hours just to search all users ranked L-0 through L-5 given the large size of the group, so reduce the search size in the code if needed.
 - The application is not very user friendly and there is no real interface. All parameters must be changed in the code, however I made things accessible via global variables at the top of the Python file.
 
